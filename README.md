@@ -32,3 +32,4 @@ Store the to-do items in a SQL database
 10)Store the to-do items in Amazon Dynamo, run the app on EC2 instances. Create a deployment pipeline that pushes released to AWS
 
 Each item would be updated at the finish.
+I would be using maven(build tool) for building the project and managing dependency
